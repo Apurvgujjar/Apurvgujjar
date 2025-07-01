@@ -25,7 +25,7 @@
 - 🎓 Final Year Computer Engineering Student  
 - ☁ Currently working on *real-world DevOps projects* using AWS, Docker, Jenkins & Kubernetes  
 - 🔍 Focused on mastering *CI/CD pipelines, K8s deployments, and monitoring stacks*  
-- ✍ Blogging at: [gravix.hashnode.dev](https://gravix.hashnode.dev)  
+ 
 - 💼 Looking for *DevOps internship/full-time opportunities* in product-based or cloud-native companies  
 - 📧 Email: [220130111034@gecg28.ac.in](220130111034@gecg28.ac.in)  
 - 🌐 Let’s connect on [LinkedIn](www.linkedin.com/in/apurv-gujjar)

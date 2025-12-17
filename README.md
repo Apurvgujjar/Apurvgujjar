@@ -41,7 +41,7 @@ I am an <b>Electronics & Communication Engineer</b> specialized in <b>Embedded S
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMThmZzBocXN4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" />
+      <img >
     </td>
   </tr>
 </table>

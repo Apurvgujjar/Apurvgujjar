@@ -1,98 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=200&section=header&text=Apurv%20Gujjar&fontSize=70&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=120&section=header&text=APURV%20GUJJAR&fontSize=50&fontAlignY=50&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+Cloud+Specialist;Hardware+Firmware+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;IoT+Cloud+Developer;Firmware+Specialist" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/apurv-gujjar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gujjarapurv181@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/apurv-gujjar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gujjarapurv181@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Architecting the Future of Connected Devices
-
 </div>
 
-## 🔭 Professional Overview
+## 👨‍💻 Professional Profile
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="60%" style="border: none; vertical-align: top;">
-      <p>Passionate <b>Embedded Systems & IoT Engineer</b> with expertise in creating seamless integration between hardware and cloud. Currently focused on building high-performance <b>AWS IoT</b> solutions and optimized firmware.</p>
-      <ul>
-        <li>🎓 <b>B.E. Electronics & Communication</b> (CGPA: 7.87)</li>
-        <li>⚡ <b>Core Focus:</b> Low-latency Data Pipelines & Edge Computing</li>
-        <li>📍 <b>Location:</b> Gandhinagar, Gujarat</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4eHJvbmM4eHJvbmM4eHJvbmM4eHJvbmM4eHJvbmM4eHJvbmM4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7v9N5wW8vkyY2v9/giphy.gif" width="220" />
-    </td>
-  </tr>
-</table>
+<p>
+I am an <b>Electronics & Communication Engineer</b> specialized in <b>Embedded Systems & IoT</b>. I design secure, scalable hardware-to-cloud pipelines with a focus on low-power firmware and robust AWS integration.
+</p>
+
+- 🎓 **B.E. E&C Engineer** | GEC Gandhinagar (7.87 CGPA)
+- ☁️ **Specialization:** AWS IoT Core, Lambda, MQTT & Hardware Interfacing
 
 ---
 
-## 🚀 High-Impact Projects
+## 🚀 Key Projects
 
 ### 🌩️ AWS IoT Smart Monitoring System
-<table>
+<table align="center">
   <tr>
     <td width="60%">
-      <p><b>Business Impact:</b> Reduced manual monitoring overhead by 70% using automated cloud-edge synchronization.</p>
       <ul>
-        <li>Implemented <b>X.509 Certificate-based</b> security for MQTT.</li>
-        <li>Processed real-time data via <b>AWS Lambda</b> & IoT Rules.</li>
-        <li>Achieved <b>stable <2s latency</b> for critical alerts.</li>
+        <li><b>Impact:</b> Automated monitoring reducing manual effort by 70%.</li>
+        <li><b>Security:</b> Integrated X.509 certificates for secure MQTT messaging.</li>
+        <li><b>Cloud:</b> Real-time data routing via AWS IoT Rules & Lambda.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Tech-AWS_IoT_Core_|_Lambda_|_MQTT-orange?style=flat-square" />
+      <p align="left">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
+        <img src="https://img.shields.io/badge/MQTT-6B4E71?style=flat-square" />
+      </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMThmZzBocXN4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="250" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMThmZzBocXN4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
 
-### 🗳️ Digital Integrity Voting System
-<table>
+### 🗳️ Electronic Voting System (Arduino)
+<table align="center">
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXp6Nm05bmR4N3I4amZybmR4N3I4amZybmR4N3I4amZybmR4JmVwPXYxX2ludGVybmFs_Z2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlzY2JrbThkZzR6NHJ4bmR4NHR4bmR4NHR4bmR4NHR4bmR4NHR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     </td>
     <td width="60%">
-      <p><b>Reliability:</b> Designed for 100% accuracy in high-volume (1500+ votes) local environments.</p>
       <ul>
-        <li>Advanced <b>Software Debouncing</b> for mechanical input reliability.</li>
-        <li>Secure memory logging using <b>Embedded C</b>.</li>
-        <li>90% reduction in manual result processing time.</li>
+        <li><b>Scaling:</b> Optimized for 1500+ secure data entries.</li>
+        <li><b>Reliability:</b> Embedded C implementation with zero-bounce logic.</li>
+        <li><b>Accuracy:</b> Replaced manual counting with 100% digital audit trails.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Tech-Embedded_C_|_Arduino_|_Security-blue?style=flat-square" />
+      <p align="left">
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Technical Mastery
+## 🛠 Skills & Competencies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,aws,linux,python,git,github,bash,matlab" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Protocols-UART_•_I2C_•_SPI_•_MQTT_•_HTTP-00C2FF?style=for-the-badge" />
 </div>
 
+<br>
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Hardware** | Arduino, Sensor Interfacing, ARM Fundamentals |
+| **Cloud** | AWS IoT Core, Lambda, MQTT, CloudWatch |
+| **Protocols** | UART, I2C, SPI, Bluetooth, Zigbee |
+| **Tools** | Git, Arduino IDE, MATLAB, TinkerCAD |
+
 ---
 
-## 🎓 Certifications & Leadership
-* 🏅 **AWS Cloud Quest:** Cloud Practitioner (2025)
-* 🧑‍💼 **Placement Coordinator:** Managed recruitment drives for the EC Department.
-* 🏆 **Tech-Fest Representative:** Competed at the University level.
+## 🏅 Achievements
+- 🏆 **AWS Cloud Quest:** Cloud Practitioner Certified (2025)
+- 🧑‍🏫 **Leadership:** Placement Coordinator (EC Department)
+- 🎖️ **Certifications:** Python Programming (NSVT)
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=30&section=footer" width="100%" />
-  <p><b>Always Learning. Always Building.</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=20&section=footer" width="100%" />
 </div>

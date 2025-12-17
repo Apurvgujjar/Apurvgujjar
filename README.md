@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=200&section=header&text=Apurv%20Gujjar&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=200&section=header&text=Apurv%20Gujjar&fontSize=70&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+Cloud+Architect;AWS+Certified+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;IoT+Cloud+Specialist;Hardware+Firmware+Developer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apurv-gujjar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,42 +11,64 @@
 
 ---
 
+### 🛠️ Architecting the Future of Connected Devices
+
 </div>
 
-## 🚀 High-Impact Projects (Live Representation)
+## 🔭 Professional Overview
 
-<table>
+<table align="center" style="border: none;">
   <tr>
-    <td width="55%">
-      <h3>☁️ AWS IoT Smart Monitoring System</h3>
-      <p><b>Problem:</b> Real-time industrial monitoring with high latency and security risks.</p>
-      <p><b>Solution:</b> Built an end-to-end pipeline using <b>AWS IoT Core</b> and <b>MQTT</b> with X.509 certs.</p>
+    <td width="60%" style="border: none; vertical-align: top;">
+      <p>Passionate <b>Embedded Systems & IoT Engineer</b> with expertise in creating seamless integration between hardware and cloud. Currently focused on building high-performance <b>AWS IoT</b> solutions and optimized firmware.</p>
       <ul>
-        <li><img src="https://img.shields.io/badge/Latency-%3C2s-green" /></li>
-        <li><img src="https://img.shields.io/badge/Efficiency-+70%25-blue" /></li>
+        <li>🎓 <b>B.E. Electronics & Communication</b> (CGPA: 7.87)</li>
+        <li>⚡ <b>Core Focus:</b> Low-latency Data Pipelines & Edge Computing</li>
+        <li>📍 <b>Location:</b> Gandhinagar, Gujarat</li>
       </ul>
-      <code>AWS Lambda</code> <code>MQTT</code> <code>CloudWatch</code> <code>Arduino</code>
     </td>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMThmZzBocXN4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="280" />
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4eHJvbmM4eHJvbmM4eHJvbmM4eHJvbmM4eHJvbmM4eHJvbmM4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7v9N5wW8vkyY2v9/giphy.gif" width="220" />
     </td>
   </tr>
 </table>
 
+---
+
+## 🚀 High-Impact Projects
+
+### 🌩️ AWS IoT Smart Monitoring System
 <table>
   <tr>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXp6Nm05bmR4N3I4amZybmR4N3I4amZybmR4N3I4amZybmR4JmVwPXYxX2ludGVybmFs_Z2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-    </td>
-    <td width="55%">
-      <h3>🗳️ Digital Integrity Voting System</h3>
-      <p><b>Problem:</b> Manual counting errors and physical tampering in voting.</p>
-      <p><b>Solution:</b> Low-level <b>Embedded C</b> firmware for hardware debouncing and secure logging.</p>
+    <td width="60%">
+      <p><b>Business Impact:</b> Reduced manual monitoring overhead by 70% using automated cloud-edge synchronization.</p>
       <ul>
-        <li><img src="https://img.shields.io/badge/Accuracy-100%25-brightgreen" /></li>
-        <li><img src="https://img.shields.io/badge/Capacity-1500+-orange" /></li>
+        <li>Implemented <b>X.509 Certificate-based</b> security for MQTT.</li>
+        <li>Processed real-time data via <b>AWS Lambda</b> & IoT Rules.</li>
+        <li>Achieved <b>stable <2s latency</b> for critical alerts.</li>
       </ul>
-      <code>Embedded C</code> <code>Arduino</code> <code>Digital Security</code>
+      <img src="https://img.shields.io/badge/Tech-AWS_IoT_Core_|_Lambda_|_MQTT-orange?style=flat-square" />
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMThmZzBocXN4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWJ4NmtueWImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
+
+### 🗳️ Digital Integrity Voting System
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXp6Nm05bmR4N3I4amZybmR4N3I4amZybmR4N3I4amZybmR4JmVwPXYxX2ludGVybmFs_Z2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+    </td>
+    <td width="60%">
+      <p><b>Reliability:</b> Designed for 100% accuracy in high-volume (1500+ votes) local environments.</p>
+      <ul>
+        <li>Advanced <b>Software Debouncing</b> for mechanical input reliability.</li>
+        <li>Secure memory logging using <b>Embedded C</b>.</li>
+        <li>90% reduction in manual result processing time.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Tech-Embedded_C_|_Arduino_|_Security-blue?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -57,35 +79,20 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,aws,linux,python,git,github,bash,matlab" />
-</div>
-
-<br />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Protocols</b></td>
-      <td align="center"><b>Hardware</b></td>
-      <td align="center"><b>Cloud</b></td>
-    </tr>
-    <tr>
-      <td>UART • I2C • SPI</td>
-      <td>Sensors • Actuators</td>
-      <td>MQTT • Lambda • Rules</td>
-    </tr>
-  </table>
+  <br><br>
+  <img src="https://img.shields.io/badge/Protocols-UART_•_I2C_•_SPI_•_MQTT_•_HTTP-00C2FF?style=for-the-badge" />
 </div>
 
 ---
 
-## 🏅 Recognition & Education
-- 🎓 **B.E. in Electronics & Communication** (7.87 CGPA)
-- 🏅 **AWS Cloud Quest:** Cloud Practitioner (2025)
-- 🧑‍💼 **Placement Coordinator:** Leadership Role
+## 🎓 Certifications & Leadership
+* 🏅 **AWS Cloud Quest:** Cloud Practitioner (2025)
+* 🧑‍💼 **Placement Coordinator:** Managed recruitment drives for the EC Department.
+* 🏆 **Tech-Fest Representative:** Competed at the University level.
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=30&section=footer" width="100%" />
-  <p><i>"Innovating the Future, One Device at a Time."</i></p>
+  <p><b>Always Learning. Always Building.</b></p>
 </div>
